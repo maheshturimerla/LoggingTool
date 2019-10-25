@@ -1,0 +1,5 @@
+com\logging\spring\SpringLogging\MyRunner.class
+com\logging\spring\SpringLogging\Logger.class
+com\logging\spring\SpringLogging\RawTestResul.class
+com\logging\spring\SpringLogging\Application.class
+com\logging\spring\SpringLogging\CSVUtils.class
